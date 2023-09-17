@@ -25,7 +25,7 @@ LimitApikey = 200 // Limit Apikey default
 
 //___________ ┏  Database Mongodb Setting  ┓ ___________\\
 
-keymongodb = process.env.mongodb "mongodb+srv://pansh:bu0johzUWDK5m9Qv@pansh.yn2wgy4.mongodb.net/?retryWrites=true&w=majority"; //example "mongodb+srv://user:password@name_database.mongodb.net/?retryWrites=true&w=majority";
+keymongodb = process.env.mongodb //example "mongodb+srv://user:password@name_database.mongodb.net/?retryWrites=true&w=majority";
 
 //___________ ┏  SMTP Setting  ┓ ___________\\
 
